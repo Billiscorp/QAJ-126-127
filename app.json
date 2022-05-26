@@ -6,6 +6,4 @@
   "keywords": ["node", "express", "heroku"],
   "image": "heroku/nodejs",
   "test":"test"
-  
-  
 }
