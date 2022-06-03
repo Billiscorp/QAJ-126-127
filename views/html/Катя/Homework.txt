@@ -1,0 +1,7 @@
+1)li.category,li.product
+2)div.content [href]
+3)#footer .information a:nth-child(3)
+4)#site-menu-wrapper *
+5)#fancybox-content select[country_code]
+6)#box-regional-settings select[zone_code]
+7)#box-category .button[date]
