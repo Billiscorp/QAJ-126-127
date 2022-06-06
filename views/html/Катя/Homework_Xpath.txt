@@ -1,0 +1,8 @@
+1)//li[contains(@class,"product")]
+2)//a[@class="link"]
+3)//a[text()="Privacy Policy"]
+4)//*[@id="site-menu"]/ul/li
+5)//option[@value="US"]
+6)//option[@value="AL"]//..
+7)//a[@class="button"][contains(@href,"date")]
+8)//div[@class="sticker sale"]/../../..
